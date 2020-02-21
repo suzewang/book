@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/suzewang/book#readme",
   "devDependencies": {
-    "gitbook-cli": "^2.3.2"
+    "gitbook-cli": "^3.2.3"
   }
 }
