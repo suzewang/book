@@ -1,0 +1,22 @@
+{
+  "name": "book",
+  "version": "1.0.0",
+  "description": "这是 GitBook 制作的电子书。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suzewang/book.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suzewang/book/issues"
+  },
+  "homepage": "https://github.com/suzewang/book#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
